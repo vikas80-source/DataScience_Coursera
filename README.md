@@ -1,2 +1,2 @@
-# DataScience_Coursera
+# datasciencecoursera
 Data science
